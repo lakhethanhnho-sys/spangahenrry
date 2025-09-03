@@ -104,7 +104,7 @@
   <script>
     window.__lc = window.__lc || {};
     window.__lc.license = 19289378;
-    window.__lc.integration_name = "manual_onboarding";
+    window.__lc.integration_name = "manual_channels";
     window.__lc.product_name = "livechat";
     ;(function(n,t,c){
       function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}
@@ -127,7 +127,7 @@
     }(window,document,[].slice))
   </script>
   <noscript>
-    <a href="https://www.livechat.com/chat-with/19289378/" rel="nofollow">Chat với chúng tôi</a>, powered by
+    <a href="https://www.livechat.com/chat-with/19289378/" rel="nofollow">Chat with us</a>, powered by
     <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
   </noscript>
   <!-- End of LiveChat code -->
