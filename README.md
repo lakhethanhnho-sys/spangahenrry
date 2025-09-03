@@ -37,6 +37,8 @@
     }
     .service img {
       width: 100%;
+      height: 200px;
+      object-fit: cover;
       border-radius: 10px;
     }
     .service h3 {
@@ -61,34 +63,34 @@
   <section class="services">
     <!-- Dịch vụ chăm sóc -->
     <div class="service">
-      <img src="https://via.placeholder.com/300x200?text=Massage+Body" alt="Massage Body">
+      <img src="https://bestme.vn/images/blogs/2023/09/24/cham-soc-da-mat-tai-spa.jpg" alt="Massage Body">
       <h3>Massage Body</h3>
       <p>Giúp thư giãn cơ thể, giảm stress và cải thiện tuần hoàn máu.</p>
     </div>
     <div class="service">
-      <img src="https://via.placeholder.com/300x200?text=Chăm+Sóc+Da+Mặt" alt="Chăm sóc da mặt">
+      <img src="https://bestme.vn/images/blogs/2023/09/24/dap-mat-na-cham-soc-da.jpg" alt="Chăm sóc da mặt">
       <h3>Chăm Sóc Da Mặt</h3>
       <p>Làm sạch sâu, cấp ẩm và phục hồi làn da khỏe mạnh.</p>
     </div>
     <div class="service">
-      <img src="https://via.placeholder.com/300x200?text=Triệt+Lông+Công+Nghệ+Cao" alt="Triệt lông">
+      <img src="https://bestme.vn/images/blogs/2023/09/24/triet-long-body.jpg" alt="Triệt lông">
       <h3>Triệt Lông Công Nghệ Cao</h3>
       <p>Giải pháp triệt lông an toàn, hiệu quả và lâu dài.</p>
     </div>
 
     <!-- Dịch vụ phun xăm thẩm mỹ -->
     <div class="service">
-      <img src="https://via.placeholder.com/300x200?text=Phun+M%C3%A0y+T%E1%BA%B1n+B%E1%BA%A5m" alt="Phun mày tản bấm">
+      <img src="https://xaydungso.vn/images/phun-may-dep.jpg" alt="Phun mày tản bấm">
       <h3>Phun Mày Tản Bấm</h3>
       <p>Giúp định hình chân mày tự nhiên, hài hòa với khuôn mặt.</p>
     </div>
     <div class="service">
-      <img src="https://via.placeholder.com/300x200?text=Phun+M%C3%B4i+Collagen" alt="Phun môi collagen">
+      <img src="https://xaydungso.vn/images/phun-moi-collagen.jpg" alt="Phun môi collagen">
       <h3>Phun Môi Collagen</h3>
       <p>Cho đôi môi căng mọng, hồng hào và đều màu tự nhiên.</p>
     </div>
     <div class="service">
-      <img src="https://via.placeholder.com/300x200?text=Phun+M%C3%AD+M%E1%BA%AFt" alt="Phun mí mắt">
+      <img src="https://xaydungso.vn/images/phun-mi-mat.jpg" alt="Phun mí mắt">
       <h3>Phun Mí Mắt</h3>
       <p>Tạo đường mí sắc nét, giúp đôi mắt thêm cuốn hút mà không cần trang điểm.</p>
     </div>
